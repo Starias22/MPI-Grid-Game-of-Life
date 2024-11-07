@@ -38,7 +38,7 @@ Used MPI_Cart_shift to exchange boundary information with neighboring processes 
 
 Here is a short demo of the game.
 
-![Game of Life Demo](./game_of_life_demo.gif)
+![Game of Life Demo](./resources/game_of_life_demo.gif)
 
 ## Requirements
 - Linux or Mac OS
