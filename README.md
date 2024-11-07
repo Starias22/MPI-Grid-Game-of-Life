@@ -79,4 +79,4 @@ Run the project
 ```sh
 mpiexec -n 6 python3 mpi_grid_game_of_life.py
 ```
-Feel free to custumize the number of process.
+Feel free to custumize the number of processes.
